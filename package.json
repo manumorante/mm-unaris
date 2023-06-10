@@ -1,8 +1,13 @@
 {
   "name": "mm-unaris",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Unaris components",
   "main": "src/index.js",
   "license": "MIT",
-  "author": "Manu Morante"
+  "author": "Manu Morante",
+  "homepage": "https://github.com/manumorante/mm-unaris",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/manumorante/mm-unaris"
+  }
 }
